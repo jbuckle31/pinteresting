@@ -2,4 +2,4 @@
 
 This is the pinteresting sample applciation for [*One Month Rails*](http://onemonthrails.com)
 
-by [Jared Buckley]
+by Jared Buckley
