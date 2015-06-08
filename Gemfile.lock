@@ -162,7 +162,7 @@ DEPENDENCIES
   rails (= 4.2.1)
   rails_12factor
   sass-rails (~> 5.0)
-  sdoc (~> 0.4.0)
+  sdoc
   spring
   sqlite3
   turbolinks
